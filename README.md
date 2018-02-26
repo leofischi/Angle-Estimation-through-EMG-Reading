@@ -3,4 +3,5 @@ System Identification to estimate elbow joint angle through the measurement of s
 
 Used methods: 
 Linear Methods: State-Space, ARX, ARMAX, ARIMAX
+
 Non Linear Models: Hammstein-Wiener
